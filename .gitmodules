@@ -1,9 +1,9 @@
 [submodule "pyforms-gui"]
 	path = pyforms-gui
-	url = https://github.com/UmSenhorQualquer/pyforms-gui.git
+	url = https://github.com/gamecraftCZ/pyforms-gui-bazarator.git
 [submodule "pyforms-web"]
 	path = pyforms-web
-	url = https://github.com/UmSenhorQualquer/pyforms-web.git
+	url = https://github.com/gamecraftCZ/pyforms-web-bazarator.git
 [submodule "pyforms-terminal"]
 	path = pyforms-terminal
-	url = https://github.com/UmSenhorQualquer/pyforms-terminal.git
+	url = https://github.com/gamecraftCZ/pyforms-terminal-bazarator.git
