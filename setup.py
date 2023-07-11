@@ -19,9 +19,9 @@ setup(
     license='MIT',
     url='https://github.com/UmSenhorQualquer/pyforms',
     install_requires=[
-        'pyforms-terminal',
-        'pyforms-gui',
-        'pyforms-web',
+        'pyforms-terminal @ git+https://github.com/gamecraftCZ/pyforms-terminal-bazarator.git@v4',
+        'pyforms-gui @ https://github.com/gamecraftCZ/pyforms-gui-bazarator.git@v4',
+        'pyforms-web @ https://github.com/gamecraftCZ/pyforms-web-bazarator.git@v4',
     ],
     packages=find_packages()
 )
